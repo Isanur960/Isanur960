@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Isanur960
-- 👀 I’m interested in Data Science, Web-Scrapping, Scientific Computing, Web Development with Python.
+- 👀 I’m interested in Web Development with Python, Web-Scrapping, Scientific Computing .
 - 🌱 I’m currently learning Fortran, Java, C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - sardarisanur@gmail.com

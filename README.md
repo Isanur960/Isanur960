@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Isanur960
-- 👀 I’m interested in Web Development with Python, Django, Web-Scrapping, Scientific Computing .
-- 🌱 I’m currently learning Fortran, Java, C
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Isanur Sardar
+- 👀 I’m interested in Web Development with NodeJS, ExpressJS, Python, Django, Web-Scrapping, and Scientific Computing.
+- 🌱 I’m currently learning AI/ML
+- 💞️ I’m looking to collaborate on backend systems.
 - 📫 How to reach me - sardarisanur@gmail.com
 
 <!---
